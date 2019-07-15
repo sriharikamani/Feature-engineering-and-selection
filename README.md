@@ -1,4 +1,4 @@
-# Feature-engineering-and-selection
+# Feature-engineering-and-Feature selection
 Various Phases
 ---------------
 Get the Data and Explore
